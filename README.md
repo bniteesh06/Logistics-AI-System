@@ -72,7 +72,8 @@ Full interactive docs live at `http://127.0.0.1:8000/docs` while the backend is 
 FastAPI, Pydantic, pandas/numpy on the backend. Streamlit, Plotly, and Folium on the frontend. No database — everything runs off generated CSVs (`backend/app/data/`) since the point here is the architecture and the optimization logic, not persistence.
 
 
-How to deploy it 
+**How to deploy it **
+
 step 1 — backend on render
 
 go to render.com and sign in with github
